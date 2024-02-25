@@ -1,0 +1,136 @@
+*{
+    padding: 0px;
+    margin: 0px;
+
+}
+.navbar-collapse {
+
+
+    text-align: right;
+
+    display: flex;
+    justify-content: flex-end;
+
+
+}
+
+.header-section {
+    background-image: url(bg-masthead.jpg);
+    opacity: 150%;
+
+}
+
+
+.header-section {
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6,
+    p,
+    a {
+        color: #ffffff !important;
+    }
+}
+
+.content-0 {
+
+    h1 .family{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    }
+
+    }
+
+
+.content-1 {
+
+    background-color: rgb(244, 98, 58);
+}
+
+
+
+.content-3 {
+
+    background-color: #000000;
+}
+
+.content-3 {
+    h1 {
+        color: #ffffff;
+    }
+}
+
+.content-4 {
+    background-color: #ffffff;
+}
+
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+form {
+    max-width: 600px;
+    margin: auto;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+}
+
+input,
+select {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 12px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+/* button section */
+.btn-1 {
+    border-radius: 20px;
+    background-color: #ff4500;
+    font-weight: 500;
+
+}
+
+.btn-1:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+
+}
+.container-text-center:hover{
+    background-color: #ff4500;
+    color: rgb(255, 255, 255);
+}
+
+.top-nav{
+    margin-left: 200px;
+}
+
+.btn-2{
+    background-color: #c95169;
+    padding:  10px 100px;
+    border-radius: 30px;
+    margin-left: 20px;
+}
+
+.message{
+    padding-bottom: 100px;
+}
+
+.card-body12{
+    border: none;
+}
