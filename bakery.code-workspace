@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../../3D Objects/dry fruits"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bakery"
+	}
+}
